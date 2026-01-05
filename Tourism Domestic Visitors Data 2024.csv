@@ -1,0 +1,361 @@
+,district,month,visitors,Date
+0,Adilabad,January,30836,01-01-2024
+1,Adilabad,February,31774,01-01-2024
+2,Adilabad,March,10922,01-01-2024
+3,Adilabad,April,9307,01-01-2024
+4,Adilabad,May,10020,01-01-2024
+5,Adilabad,June,11832,01-01-2024
+6,Adilabad,July,30429,01-01-2024
+7,Adilabad,August,41245,01-01-2024
+8,Adilabad,September,35529,01-01-2024
+9,Adilabad,October,29176,01-01-2024
+10,Adilabad,November,104878,01-01-2024
+11,Adilabad,December,32892,01-01-2024
+12,Bhadradri Kothagudem,January,85790,01-01-2024
+13,Bhadradri Kothagudem,February,98978,01-01-2024
+14,Bhadradri Kothagudem,March,91907,01-01-2024
+15,Bhadradri Kothagudem,April,170644,01-01-2024
+16,Bhadradri Kothagudem,May,172982,01-01-2024
+17,Bhadradri Kothagudem,June,159167,01-01-2024
+18,Bhadradri Kothagudem,July,119099,01-01-2024
+19,Bhadradri Kothagudem,August,95462,01-01-2024
+20,Bhadradri Kothagudem,September,73199,01-01-2024
+21,Bhadradri Kothagudem,October,108019,01-01-2024
+22,Bhadradri Kothagudem,November,82008,01-01-2024
+23,Bhadradri Kothagudem,December,131923,01-01-2024
+24,Hanumakonda,January,36746,01-01-2024
+25,Hanumakonda,February,42083,01-01-2024
+26,Hanumakonda,March,36336,01-01-2024
+27,Hanumakonda,April,35022,01-01-2024
+28,Hanumakonda,May,32617,01-01-2024
+29,Hanumakonda,June,35709,01-01-2024
+30,Hanumakonda,July,37695,01-01-2024
+31,Hanumakonda,August,38753,01-01-2024
+32,Hanumakonda,September,37919,01-01-2024
+33,Hanumakonda,October,36461,01-01-2024
+34,Hanumakonda,November,39112,01-01-2024
+35,Hanumakonda,December,38695,01-01-2024
+36,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",January,2258478,01-01-2024
+37,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",February,1304258,01-01-2024
+38,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",March,1115850,01-01-2024
+39,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",April,190162,01-01-2024
+40,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",May,2353135,01-01-2024
+41,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",June,1946127,01-01-2024
+42,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",July,1197793,01-01-2024
+43,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",August,1445835,01-01-2024
+44,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",September,1291334,01-01-2024
+45,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",October,3274212,01-01-2024
+46,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",November,1875069,01-01-2024
+47,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",December,3487707,01-01-2024
+48,Jagtial,January,246818,01-01-2024
+49,Jagtial,February,444619,01-01-2024
+50,Jagtial,March,433459,01-01-2024
+51,Jagtial,April,455132,01-01-2024
+52,Jagtial,May,477887,01-01-2024
+53,Jagtial,June,502231,01-01-2024
+54,Jagtial,July,527235,01-01-2024
+55,Jagtial,August,553760,01-01-2024
+56,Jagtial,September,185810,01-01-2024
+57,Jagtial,October,227720,01-01-2024
+58,Jagtial,November,430303,01-01-2024
+59,Jagtial,December,209682,01-01-2024
+60,Jangaon,January,5760,01-01-2024
+61,Jangaon,February,5840,01-01-2024
+62,Jangaon,March,5350,01-01-2024
+63,Jangaon,April,5210,01-01-2024
+64,Jangaon,May,4990,01-01-2024
+65,Jangaon,June,5200,01-01-2024
+66,Jangaon,July,4905,01-01-2024
+67,Jangaon,August,5010,01-01-2024
+68,Jangaon,September,5680,01-01-2024
+69,Jangaon,October,5115,01-01-2024
+70,Jangaon,November,4950,01-01-2024
+71,Jangaon,December,5605,01-01-2024
+72,Jayashankar Bhoopalpally,January,15958,01-01-2024
+73,Jayashankar Bhoopalpally,February,15748,01-01-2024
+74,Jayashankar Bhoopalpally,March,15523,01-01-2024
+75,Jayashankar Bhoopalpally,April,14684,01-01-2024
+76,Jayashankar Bhoopalpally,May,13856,01-01-2024
+77,Jayashankar Bhoopalpally,June,14878,01-01-2024
+78,Jayashankar Bhoopalpally,July,14181,01-01-2024
+79,Jayashankar Bhoopalpally,August,13882,01-01-2024
+80,Jayashankar Bhoopalpally,September,15318,01-01-2024
+81,Jayashankar Bhoopalpally,October,15380,01-01-2024
+82,Jayashankar Bhoopalpally,November,15077,01-01-2024
+83,Jayashankar Bhoopalpally,December,16545,01-01-2024
+84,Jogulamba Gadwal,January,48959,01-01-2024
+85,Jogulamba Gadwal,February,54979,01-01-2024
+86,Jogulamba Gadwal,March,57935,01-01-2024
+87,Jogulamba Gadwal,April,50901,01-01-2024
+88,Jogulamba Gadwal,May,47951,01-01-2024
+89,Jogulamba Gadwal,June,42907,01-01-2024
+90,Jogulamba Gadwal,July,48020,01-01-2024
+91,Jogulamba Gadwal,August,53954,01-01-2024
+92,Jogulamba Gadwal,September,46488,01-01-2024
+93,Jogulamba Gadwal,October,48779,01-01-2024
+94,Jogulamba Gadwal,November,66865,01-01-2024
+95,Jogulamba Gadwal,December,68032,01-01-2024
+96,Kamareddy,January,60,01-01-2024
+97,Kamareddy,February,55,01-01-2024
+98,Kamareddy,March,99,01-01-2024
+99,Kamareddy,April,50,01-01-2024
+100,Kamareddy,May,54,01-01-2024
+101,Kamareddy,June,47,01-01-2024
+102,Kamareddy,July,47,01-01-2024
+103,Kamareddy,August,58,01-01-2024
+104,Kamareddy,September,60,01-01-2024
+105,Kamareddy,October,62,01-01-2024
+106,Kamareddy,November,43,01-01-2024
+107,Kamareddy,December,43,01-01-2024
+108,Karimnagar,January,6600,01-01-2024
+109,Karimnagar,February,4700,01-01-2024
+110,Karimnagar,March,5675,01-01-2024
+111,Karimnagar,April,5959,01-01-2024
+112,Karimnagar,May,6256,01-01-2024
+113,Karimnagar,June,6569,01-01-2024
+114,Karimnagar,July,6897,01-01-2024
+115,Karimnagar,August,7242,01-01-2024
+116,Karimnagar,September,5423,01-01-2024
+117,Karimnagar,October,5675,01-01-2024
+118,Karimnagar,November,5816,01-01-2024
+119,Karimnagar,December,6239,01-01-2024
+120,Khammam,January,44527,01-01-2024
+121,Khammam,February,57671,01-01-2024
+122,Khammam,March,51403,01-01-2024
+123,Khammam,April,62601,01-01-2024
+124,Khammam,May,65392,01-01-2024
+125,Khammam,June,87546,01-01-2024
+126,Khammam,July,73424,01-01-2024
+127,Khammam,August,50150,01-01-2024
+128,Khammam,September,31210,01-01-2024
+129,Khammam,October,68872,01-01-2024
+130,Khammam,November,45442,01-01-2024
+131,Khammam,December,60712,01-01-2024
+132,Komaram Bheem Asifabad,January,1819,01-01-2024
+133,Komaram Bheem Asifabad,February,1452,01-01-2024
+134,Komaram Bheem Asifabad,March,920,01-01-2024
+135,Komaram Bheem Asifabad,April,911,01-01-2024
+136,Komaram Bheem Asifabad,May,973,01-01-2024
+137,Komaram Bheem Asifabad,June,1117,01-01-2024
+138,Komaram Bheem Asifabad,July,1527,01-01-2024
+139,Komaram Bheem Asifabad,August,2107,01-01-2024
+140,Komaram Bheem Asifabad,September,2061,01-01-2024
+141,Komaram Bheem Asifabad,October,10569,01-01-2024
+142,Komaram Bheem Asifabad,November,2349,01-01-2024
+143,Komaram Bheem Asifabad,December,2311,01-01-2024
+144,Mahabubabad,January,3330,01-01-2024
+145,Mahabubabad,February,3460,01-01-2024
+146,Mahabubabad,March,3830,01-01-2024
+147,Mahabubabad,April,2800,01-01-2024
+148,Mahabubabad,May,2755,01-01-2024
+149,Mahabubabad,June,3245,01-01-2024
+150,Mahabubabad,July,5300,01-01-2024
+151,Mahabubabad,August,6330,01-01-2024
+152,Mahabubabad,September,3320,01-01-2024
+153,Mahabubabad,October,3340,01-01-2024
+154,Mahabubabad,November,5250,01-01-2024
+155,Mahabubabad,December,3860,01-01-2024
+156,Mahabubnagar,January,56000,01-01-2024
+157,Mahabubnagar,February,62200,01-01-2024
+158,Mahabubnagar,March,61100,01-01-2024
+159,Mahabubnagar,April,57600,01-01-2024
+160,Mahabubnagar,May,52000,01-01-2024
+161,Mahabubnagar,June,44520,01-01-2024
+162,Mahabubnagar,July,50520,01-01-2024
+163,Mahabubnagar,August,54500,01-01-2024
+164,Mahabubnagar,September,46000,01-01-2024
+165,Mahabubnagar,October,48550,01-01-2024
+166,Mahabubnagar,November,141800,01-01-2024
+167,Mahabubnagar,December,91300,01-01-2024
+168,Mancherial,January,9325,01-01-2024
+169,Mancherial,February,15430,01-01-2024
+170,Mancherial,March,8386,01-01-2024
+171,Mancherial,April,5159,01-01-2024
+172,Mancherial,May,6982,01-01-2024
+173,Mancherial,June,8868,01-01-2024
+174,Mancherial,July,10708,01-01-2024
+175,Mancherial,August,7956,01-01-2024
+176,Mancherial,September,7297,01-01-2024
+177,Mancherial,October,8830,01-01-2024
+178,Mancherial,November,10021,01-01-2024
+179,Mancherial,December,9981,01-01-2024
+180,Medak,January,66944,01-01-2024
+181,Medak,February,114301,01-01-2024
+182,Medak,March,904902,01-01-2024
+183,Medak,April,32461,01-01-2024
+184,Medak,May,32470,01-01-2024
+185,Medak,June,75807,01-01-2024
+186,Medak,July,46173,01-01-2024
+187,Medak,August,38786,01-01-2024
+188,Medak,September,26983,01-01-2024
+189,Medak,October,99804,01-01-2024
+190,Medak,November,79877,01-01-2024
+191,Medak,December,83504,01-01-2024
+192,Medchal -Malkajigiri,January,,01-01-2024
+193,Medchal -Malkajigiri,February,,01-01-2024
+194,Medchal -Malkajigiri,March,,01-01-2024
+195,Medchal -Malkajigiri,April,,01-01-2024
+196,Medchal -Malkajigiri,May,,01-01-2024
+197,Medchal -Malkajigiri,June,,01-01-2024
+198,Medchal -Malkajigiri,July,,01-01-2024
+199,Medchal -Malkajigiri,August,,01-01-2024
+200,Medchal -Malkajigiri,September,,01-01-2024
+201,Medchal -Malkajigiri,October,,01-01-2024
+202,Medchal -Malkajigiri,November,,01-01-2024
+203,Medchal -Malkajigiri,December,,01-01-2024
+204,Mulugu,January,2048855,01-01-2024
+205,Mulugu,February,12046024,01-01-2024
+206,Mulugu,March,52425,01-01-2024
+207,Mulugu,April,48919,01-01-2024
+208,Mulugu,May,46920,01-01-2024
+209,Mulugu,June,49617,01-01-2024
+210,Mulugu,July,52967,01-01-2024
+211,Mulugu,August,57251,01-01-2024
+212,Mulugu,September,50043,01-01-2024
+213,Mulugu,October,51123,01-01-2024
+214,Mulugu,November,53169,01-01-2024
+215,Mulugu,December,53035,01-01-2024
+216,Nagarkurnool,January,35680,01-01-2024
+217,Nagarkurnool,February,41750,01-01-2024
+218,Nagarkurnool,March,44900,01-01-2024
+219,Nagarkurnool,April,57000,01-01-2024
+220,Nagarkurnool,May,47000,01-01-2024
+221,Nagarkurnool,June,39500,01-01-2024
+222,Nagarkurnool,July,42700,01-01-2024
+223,Nagarkurnool,August,43900,01-01-2024
+224,Nagarkurnool,September,33900,01-01-2024
+225,Nagarkurnool,October,35650,01-01-2024
+226,Nagarkurnool,November,42200,01-01-2024
+227,Nagarkurnool,December,42500,01-01-2024
+228,Nalgonda & Suryapet,January,386903,01-01-2024
+229,Nalgonda & Suryapet,February,26031,01-01-2024
+230,Nalgonda & Suryapet,March,594366,01-01-2024
+231,Nalgonda & Suryapet,April,144906,01-01-2024
+232,Nalgonda & Suryapet,May,21456,01-01-2024
+233,Nalgonda & Suryapet,June,20238,01-01-2024
+234,Nalgonda & Suryapet,July,19313,01-01-2024
+235,Nalgonda & Suryapet,August,32764,01-01-2024
+236,Nalgonda & Suryapet,September,80672,01-01-2024
+237,Nalgonda & Suryapet,October,74792,01-01-2024
+238,Nalgonda & Suryapet,November,88653,01-01-2024
+239,Nalgonda & Suryapet,December,65841,01-01-2024
+240,Narayanapet,January,1720,01-01-2024
+241,Narayanapet,February,2000,01-01-2024
+242,Narayanapet,March,1690,01-01-2024
+243,Narayanapet,April,11500,01-01-2024
+244,Narayanapet,May,1700,01-01-2024
+245,Narayanapet,June,1300,01-01-2024
+246,Narayanapet,July,1500,01-01-2024
+247,Narayanapet,August,1250,01-01-2024
+248,Narayanapet,September,850,01-01-2024
+249,Narayanapet,October,910,01-01-2024
+250,Narayanapet,November,1400,01-01-2024
+251,Narayanapet,December,4180,01-01-2024
+252,Nirmal,January,332447,01-01-2024
+253,Nirmal,February,341997,01-01-2024
+254,Nirmal,March,373687,01-01-2024
+255,Nirmal,April,332088,01-01-2024
+256,Nirmal,May,381662,01-01-2024
+257,Nirmal,June,394087,01-01-2024
+258,Nirmal,July,399061,01-01-2024
+259,Nirmal,August,395078,01-01-2024
+260,Nirmal,September,409354,01-01-2024
+261,Nirmal,October,378760,01-01-2024
+262,Nirmal,November,389743,01-01-2024
+263,Nirmal,December,380856,01-01-2024
+264,Nizamabad,January,77470,01-01-2024
+265,Nizamabad,February,105828,01-01-2024
+266,Nizamabad,March,166379,01-01-2024
+267,Nizamabad,April,169469,01-01-2024
+268,Nizamabad,May,77998,01-01-2024
+269,Nizamabad,June,109979,01-01-2024
+270,Nizamabad,July,76142,01-01-2024
+271,Nizamabad,August,89690,01-01-2024
+272,Nizamabad,September,53152,01-01-2024
+273,Nizamabad,October,46146,01-01-2024
+274,Nizamabad,November,153057,01-01-2024
+275,Nizamabad,December,70826,01-01-2024
+276,Peddapalli,January,1515,01-01-2024
+277,Peddapalli,February,1410,01-01-2024
+278,Peddapalli,March,1305,01-01-2024
+279,Peddapalli,April,1370,01-01-2024
+280,Peddapalli,May,1438,01-01-2024
+281,Peddapalli,June,1510,01-01-2024
+282,Peddapalli,July,1585,01-01-2024
+283,Peddapalli,August,1664,01-01-2024
+284,Peddapalli,September,1747,01-01-2024
+285,Peddapalli,October,1834,01-01-2024
+286,Peddapalli,November,1926,01-01-2024
+287,Peddapalli,December,2022,01-01-2024
+288,Rajanna Sircilla,January,1548496,01-01-2024
+289,Rajanna Sircilla,February,1682264,01-01-2024
+290,Rajanna Sircilla,March,1399404,01-01-2024
+291,Rajanna Sircilla,April,1469374,01-01-2024
+292,Rajanna Sircilla,May,1542843,01-01-2024
+293,Rajanna Sircilla,June,1620264,01-01-2024
+294,Rajanna Sircilla,July,1701276,01-01-2024
+295,Rajanna Sircilla,August,1786478,01-01-2024
+296,Rajanna Sircilla,September,557557,01-01-2024
+297,Rajanna Sircilla,October,776557,01-01-2024
+298,Rajanna Sircilla,November,1304854,01-01-2024
+299,Rajanna Sircilla,December,899057,01-01-2024
+300,Sangareddy,January,202300,01-01-2024
+301,Sangareddy,February,120137,01-01-2024
+302,Sangareddy,March,1032366,01-01-2024
+303,Sangareddy,April,130310,01-01-2024
+304,Sangareddy,May,126142,01-01-2024
+305,Sangareddy,June,76632,01-01-2024
+306,Sangareddy,July,78450,01-01-2024
+307,Sangareddy,August,528650,01-01-2024
+308,Sangareddy,September,152799,01-01-2024
+309,Sangareddy,October,116640,01-01-2024
+310,Sangareddy,November,276645,01-01-2024
+311,Sangareddy,December,129750,01-01-2024
+312,Siddipet,January,1275207,01-01-2024
+313,Siddipet,February,148670,01-01-2024
+314,Siddipet,March,146250,01-01-2024
+315,Siddipet,April,175117,01-01-2024
+316,Siddipet,May,152732,01-01-2024
+317,Siddipet,June,155170,01-01-2024
+318,Siddipet,July,93419,01-01-2024
+319,Siddipet,August,146242,01-01-2024
+320,Siddipet,September,86058,01-01-2024
+321,Siddipet,October,122454,01-01-2024
+322,Siddipet,November,187169,01-01-2024
+323,Siddipet,December,154919,01-01-2024
+324,Wanaparthy,January,1800,01-01-2024
+325,Wanaparthy,February,1600,01-01-2024
+326,Wanaparthy,March,1450,01-01-2024
+327,Wanaparthy,April,1300,01-01-2024
+328,Wanaparthy,May,1000,01-01-2024
+329,Wanaparthy,June,750,01-01-2024
+330,Wanaparthy,July,200,01-01-2024
+331,Wanaparthy,August,2300,01-01-2024
+332,Wanaparthy,September,1450,01-01-2024
+333,Wanaparthy,October,1490,01-01-2024
+334,Wanaparthy,November,1900,01-01-2024
+335,Wanaparthy,December,1700,01-01-2024
+336,Warangal,January,16069,01-01-2024
+337,Warangal,February,15960,01-01-2024
+338,Warangal,March,18468,01-01-2024
+339,Warangal,April,17408,01-01-2024
+340,Warangal,May,16323,01-01-2024
+341,Warangal,June,17941,01-01-2024
+342,Warangal,July,18050,01-01-2024
+343,Warangal,August,18980,01-01-2024
+344,Warangal,September,16447,01-01-2024
+345,Warangal,October,17877,01-01-2024
+346,Warangal,November,19014,01-01-2024
+347,Warangal,December,17815,01-01-2024
+348,Yadadri Bhongir,January,961000,01-01-2024
+349,Yadadri Bhongir,February,552596,01-01-2024
+350,Yadadri Bhongir,March,740494,01-01-2024
+351,Yadadri Bhongir,April,876574,01-01-2024
+352,Yadadri Bhongir,May,1817107,01-01-2024
+353,Yadadri Bhongir,June,1564839,01-01-2024
+354,Yadadri Bhongir,July,651704,01-01-2024
+355,Yadadri Bhongir,August,726151,01-01-2024
+356,Yadadri Bhongir,September,383527,01-01-2024
+357,Yadadri Bhongir,October,518988,01-01-2024
+358,Yadadri Bhongir,November,972728,01-01-2024
+359,Yadadri Bhongir,December,861921,01-01-2024
